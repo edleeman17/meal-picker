@@ -1,0 +1,104 @@
+{
+    "dinner": [
+        {
+            "name": "Katsu curry",
+            "meat": "chicken"
+        },
+        {
+            "name": "Stir fry"
+        },
+        {
+            "name": "Sunset burgers",
+            "meat": "chicken"
+        },
+        {
+            "name": "Nando’s pittas",
+            "meat": "chicken"
+        },
+        {
+            "name": "Cottage pie"
+        },
+        {
+            "name": "One pot lasagne"
+        },
+        {
+            "name": "Pizza"
+        },
+        {
+            "name": "Curry"
+        },
+        {
+            "name": "Chicken and leek bake",
+            "meat": "chicken"
+        },
+        {
+            "name": "Pie"
+        },
+        {
+            "name": "Cornflour chicken",
+            "meat": "chicken"
+        },
+        {
+            "name": "Chilli"
+        },
+        {
+            "name": "Spag Bol"
+        },
+        {
+            "name": "Philidelphia chicken and breadcrumbs",
+            "meat": "chicken"
+        },
+        {
+            "name": "Hunters chicken",
+            "meat": "chicken"
+        },
+        {
+            "name": "Fajitas",
+            "meat": "chicken"
+        },
+        {
+            "name": "Enchiladas",
+            "meat": "chicken"
+        },
+        {
+            "name": "Sausage casserole"
+        },
+        {
+            "name": "Sausage and mash"
+        },
+        {
+            "name": "Fry up"
+        },
+        {
+            "name": "Slow cooker gammon"
+        },
+        {
+            "name": "Omelettes"
+        },
+        {
+            "name": "Cheesy bacon pasta"
+        },
+        {
+            "name": "Pasta bake tuna/ tomato"
+        },
+        {
+            "name": "Kievs (v)"
+        },
+        {
+            "name": "Meatballs (v)"
+        },
+        {
+            "name": "Med veg chicken pasta",
+            "meat": "chicken"
+        },
+        {
+            "name": "Sweet and sour pork"
+        },
+        {
+            "name": "Risotto"
+        },
+        {
+            "name": "Bacon dish"
+        }
+    ]
+}
