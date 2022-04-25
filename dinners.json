@@ -2,10 +2,38 @@
     "dinner": [
         {
             "name": "Katsu curry",
-            "meat": "chicken"
+            "meat": "chicken",
+            "shoppingList": [
+                {
+                    "item": "Breaded Chicken",
+                    "qty": "1 Pack"
+                },
+                {
+                    "item": "Stir Fry Katsu Sauce",
+                    "qty": "1 Pack"
+                },
+                {
+                    "item": "Basmati Rice",
+                    "qty": "2 Packs"
+                }
+            ]
         },
         {
-            "name": "Stir fry"
+            "name": "Stir fry",
+            "shoppingList": [
+                {
+                    "item": "Chicken Breast",
+                    "qty": "1 Pack"
+                },
+                {
+                    "item": "Stir Fry Sauce",
+                    "qty": "1 Pack"
+                },
+                {
+                    "item": "Noodles",
+                    "qty": "1 Packs"
+                }
+            ]
         },
         {
             "name": "Sunset burgers",

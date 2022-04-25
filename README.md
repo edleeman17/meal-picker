@@ -7,19 +7,24 @@ I hate picking what to have for dinner.
 node index.js
 
 node index.js --exclude chicken
+
+# Export shopping list
+node index.js --shoppinglist 25.0.10.26.14.1.5
 ```
 
 ## Output
 
 ```bash
-Dinners: 
+Dinners:
 -----------------------------
 
-Monday: Kievs (v)
-Tuesday: Fry up
-Wednesday: Meatballs (v)
-Thursday: Cheesy bacon pasta
-Friday: Chicken and leek bake
-Saturday: Spag Bol
-Sunday: Philidelphia chicken and breadcrumbs
+Monday: Meatballs (v)
+Tuesday: Katsu curry
+Wednesday: Cornflour chicken
+Thursday: Med veg chicken pasta
+Friday: Hunters chicken
+Saturday: Stir fry
+Sunday: One pot lasagne
+
+Shopping List ID: 25.0.10.26.14.1.5
 ```
